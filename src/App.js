@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Tu Pa
         </a>
       </header>
     </div>
